@@ -9,4 +9,4 @@ let finalTemplate="";
  }
  container.innerHTML = finalTemplate;
 
- alert("Hello! I am an alert box!!");
+
